@@ -68,7 +68,7 @@
         <snapshotRepository>
             <id>nexus</id>
             <name>Java-Web-Calculator-Snapshot</name>
-            <urlhttp://54.225.9.93:9091/digieras/repository/maven-flipkart-snapshot/</url>
+            <url>http://54.225.9.93:9091/digieras/repository/maven-flipkart-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
