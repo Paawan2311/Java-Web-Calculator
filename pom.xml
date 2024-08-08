@@ -62,13 +62,13 @@
     <distributionManagement>
 <repository>
     <id>nexus</id>
-    <url>http://54.225.9.93:9091/digieras/repository/maven-releases/</url>
+    <url>http://52.2.87.166:9091/digieras/repository/Flipkart-release-1/</url>
   </repository>
              
         <snapshotRepository>
             <id>nexus</id>
             <name>Java-Web-Calculator-Snapshot</name>
-            <url>http://54.225.9.93:9091/digieras/repository/maven-flipkart-snapshot/</url>
+            <url>http://52.2.87.166:9091/digieras/repository/maven-flipkart-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
