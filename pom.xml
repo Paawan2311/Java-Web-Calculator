@@ -62,7 +62,7 @@
     <distributionManagement>
 <repository>
     <id>nexus</id>
-    <url>http://52.2.87.166:9091/digieras/repository/Flipkart-release-1//</url>
+    <url>http://52.2.87.166:9091/digieras/repository/Flipkart-release-1/</url>
   </repository>
              
         <snapshotRepository>
