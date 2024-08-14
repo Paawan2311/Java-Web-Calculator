@@ -20,5 +20,6 @@ sshagent(['sshtomcat']) {
     sh "scp -o StrictHostKeyChecking=no target/calculator.war ec2-user@52.2.87.166:/opt/apache-tomcat-9.0.93/webapps"
 }
 }
-}//closing
 */
+}//closing
+
