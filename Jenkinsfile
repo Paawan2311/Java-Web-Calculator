@@ -1,6 +1,6 @@
 node{
 def mavenHome = tool name:"Maven"
-
+/*
 //this stage is for git clone
 stage('checkout git'){
 git branch: 'main', url: 'https://github.com/Paawan2311/Java-Web-Calculator.git'
@@ -21,3 +21,4 @@ sshagent(['sshtomcat']) {
 }
 }
 }//closing
+*/
